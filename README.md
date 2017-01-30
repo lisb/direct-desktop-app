@@ -1,6 +1,5 @@
 # direct for Windows / direct for Mac
 
-## ver.0.4.0
+## ver.0.4.1
 
-- Windows用インストーラーの仕組みを変更
-- その他細かな動作の修正
+- キャッシュをクリアして再読込を行う機能の追加
