@@ -1,6 +1,6 @@
 # direct for Windows / direct for Mac
 
-## ver.2.12．0
+## ver.2.12.0
 
 - 細かな不具合を修正しました
 - 依存ライブラリのアップデートを行いました
