@@ -1,5 +1,5 @@
 # direct for Windows / direct for Mac
 
-## ver.2.12.3
-
-- direct AppsでURLのコピーができなかった問題を修正しました。
+## ver 2.15.2
+- 利用ライブラリのアップデートを行いました
+- [Mac] 印刷を行うとアプリケーションが終了する不具合を修正しました
